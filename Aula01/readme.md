@@ -1,0 +1,3 @@
+# Aula 01 - Automação de processo para cadastro de itens
+
+- Nesta aula o foco principal foi desenvolver um processo capaz de automatizar completamente o cadastro de diversos itens dentro de um sistema específico, utilizando a linguagem Python. Esse processo, além de otimizar o fluxo de trabalho, reduz significativamente o tempo que seria necessário para realizar essa tarefa manualmente. Como resultado, permite que as pessoas que antes dedicavam tempo a essa atividade possam se concentrar em tarefas que exigem maior atenção e esforço intelectual, contribuindo para uma maior eficiência operacional.
