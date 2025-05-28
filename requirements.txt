@@ -67,7 +67,7 @@ stack-data==0.6.3
 tenacity==9.0.0
 threadpoolctl==3.5.0
 tomlkit==0.13.2
-tornado==6.4.1
+tornado==6.5.1
 traitlets==5.14.3
 tzdata==2024.2
 virtualenv==20.26.6
